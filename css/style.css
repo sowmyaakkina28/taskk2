@@ -1,0 +1,54 @@
+.childone{
+  display: flex;
+  max-width: 100%;
+  padding: 2%;
+  margin:2%;
+  text-align: center;
+  flex-direction: row;
+  background-color: skyblue;
+}
+.card{
+  width:30%;
+  padding: 1%;
+  margin:1%;
+  border-radius:15% 0 15% 0;
+  box-shadow: 4px 5px 5px 5px #ddd;
+  color: maroon;
+}
+img{
+  width: 200px;
+  border-radius:20%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+@media only screen and (max-width:320px) and (max-width:480px) {
+  .childone{
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  padding: 1%;
+  margin:1%;
+  text-align: center;
+  justify-content: center;
+}
+a,h2,h3,h4,p{
+    word-wrap: break-word;
+  }
+.card{
+  width:100%;
+  border-radius:15%;
+  padding: 1%;
+  margin:1%;
+  text-align: center;
+  box-shadow: 4px 5px 5px 5px #ddd;
+
+}
+img{
+  width: 200px;
+  border-radius:10%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+} 

@@ -1,0 +1,24 @@
+{
+"p1":[{
+  "img":"./img/profile.jpg",
+  "name":"Sowmya akkina",
+  "mobilenum":"+91910910910",
+  "email":"Sowmyachowdary@gmail.com",
+  "address":"rajahmundry"
+},
+{
+  "img":"./img/login.jpg",
+  "name":"asmat",
+  "phoneno":"+91564512848",
+  "email":"khanasmat2001@gmail.com",
+  "address":"vizag"
+},
+{
+  "img":"./img/home.jpeg",
+  "name":"priya dharshini .n",
+  "phoneno":"+91654654323",
+  "email":"priya1831@gmail.com",
+  "address":"tuni"
+}
+]
+}
